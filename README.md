@@ -1,85 +1,184 @@
-# Lowveld-Outdoor-Camping
- 
-> A concise, one-sentence description of the website or application.
- 
+
+# Lowveld Outdoor & Camping Co. Website
+
+> A responsive website for a Lowveld outdoor and camping equipment retailer,
+> providing customers with product information, enquiries and contact details.
+
 ---
+
 ## 👥 Student Information
-* **Student Name**: [Busisiwe Elgian Mabuza]
-* **Student Number**: [ST10506842]
-* **Institution**: [Rosebank]
-* **Course/Module**: [Web Development 101]
-* **Submission Date**: [14 uagust 2026]
- 
+
+- **Student Name:** Busisiwe Elgian Mabuza
+- **Student Number:** ST1050684
+- **Institution:** Rosebank College
+- **Course/Module:** WEDE5020
+- **Assignment:** Part 2 - Designing the Visuals
+- **Project:** Lowveld Outdoor & Camping Co.
+
 ---
- 
+
 ## 🔍 Project Overview
-Provide a complete, comprehensive summary of the project here. Explain what the website is, who it is for, and the specific problem or real-world need it addresses. Ensure this section is fully fleshed out for this submission.
- 
+
+The Lowveld Outdoor & Camping Co. website is a proposed website
+for a small outdoor and camping equipment retailer located near
+one of the main gateway towns to the Kruger National Park.
+
+The business specialises in camping, hiking and outdoor equipment,
+including tents, sleeping bags, cookware, footwear and backpacks.
+
+The website provides customers with information about the business,
+its products, contact details and store information.
+
+The website also allows customers to make product enquiries and
+send messages through online forms.
+
+For Part 2, the website has been developed further by applying
+CSS styling and responsive design principles to improve the
+visual appearance, usability and consistency of the website
+across desktop, tablet and mobile screen sizes.
+
 ---
- 
+
 ## 🎯 Website Goals and Objectives
-* **Primary Goal**: The ultimate purpose of the website (e.g., to provide a seamless e-commerce platform for local artists).
-* **Objective 1**: Measurable target 1 (e.g., Deliver a responsive user interface that loads in under 2 seconds).
-* **Objective 2**: Measurable target 2 (e.g., Implement secure user authentication and profile management).
-* **Objective 3**: Measurable target 3 (e.g., Ensure AAA web accessibility compliance for all core pages).
- 
+
+The main goals and objectives of the website are:
+
+- To create a professional online presence for the business.
+- To provide customers with clear information about the company.
+- To showcase the available outdoor and camping products.
+- To make product categories easy to browse.
+- To allow customers to make product enquiries.
+- To provide clear contact and location information.
+- To create an easy-to-use navigation structure.
+- To provide a consistent visual design across all pages.
+- To make the website responsive on different screen sizes.
+- To improve readability, spacing and overall user experience.
+
 ---
- 
+
+## 👥 Target Audience
+
+The website is intended for:
+
+- Local residents interested in camping and outdoor activities.
+- Tourists visiting the Lowveld region.
+- Visitors travelling towards the Kruger National Park.
+- Hikers and campers.
+- Customers looking for camping equipment.
+- Customers interested in bulk orders.
+
+---
+
 ## ✨ Key Features and Functionality
-* **Feature 1**: [Name] - Short description of what it does and how it helps the user.
-* **Feature 2**: [Name] - Short description of what it does and how it helps the user.
-* **Feature 3**: [Name] - Short description of what it does and how it helps the user.
- 
+
+### Responsive Navigation
+
+The website includes a navigation menu linking to all five
+main pages:
+
+- Home
+- About Us
+- Products
+- Enquiry
+- Contact
+
+The active page is highlighted in the navigation to help users
+identify their current location on the website.
+
+### Product Categories
+
+The Products page displays outdoor equipment categories,
+including:
+
+- Tents
+- Camping cookware
+- Outdoor footwear
+- Backpacks
+
+Product cards include images, descriptions, prices and
+links to the enquiry page.
+
+### Contact Information
+
+The Contact page provides:
+
+- Phone number
+- Email address
+- Store address
+- Trading hours
+- Location information
+
+### Online Forms
+
+The website includes:
+
+- A product enquiry form.
+- A contact form.
+
+The forms use HTML validation and JavaScript functionality
+for user interaction.
+
+### Responsive Design
+
+CSS media queries have been used to adapt the website layout
+for different screen sizes.
+
+The layout changes at tablet and mobile breakpoints so that
+content remains readable and usable on smaller screens.
+
+### Visual Styling
+
+CSS styling has been applied to improve:
+
+- Typography
+- Colours
+- Spacing
+- Buttons
+- Navigation
+- Product cards
+- Information cards
+- Forms
+- Page banners
+- Footer
+- Hover effects
+- Focus states
+- Responsive layouts
+
 ---
- 
-## 📅 Timeline and Milestones
-- [x] **Milestone 1: Project Initiation & Planning** — Completed [Date]
-- [x] **Milestone 2: Part 1 Submission** — Completed [Date]
-- [ ] **Milestone 3: Part 2 Development** — Planned for [Date]
-- [ ] **Milestone 4: Part 3 Final Testing & Deployment** — Planned for [Date]
- 
+
+## 🛠️ Technologies Used
+
+The website uses:
+
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- GitHub
+
 ---
- 
-## 📝 Part 1 Details
-*(Note: Part 2 and Part 3 details will follow in future submissions and edits.)*
- 
-### Deliverables for this Phase
-* **Requirement A**: Description of what was built or analyzed for Part 1.
-* **Requirement B**: Description of what was built or analyzed for Part 1.
- 
-### Setup & Local Execution Instructions
-1. Clone the repository: `git clone <repo-url>`
-2. Open `index.html` in your browser (or run local environment commands here).
- 
----
- 
-## 🗺️ Sitemap
-Below is the structural hierarchy of the website for this phase:
- 
-Use code with caution.
-Homepage (index.html)
-├── About Us (about.html)
-├── Services/Products (services.html)
-└── Contact Us (contact.html)
- 
----
- 
-## 🔄 Changelog
-Tracking changes, fixes, and improvements to the website:
- 
-### [v1.0.0] - [2026-08-24] (Current Submission)
-#### Added
-* Initial project structure, repository setup, and asset folders.
-* Complete HTML structure for core skeleton pages.
-* Comprehensive `README.md` file covering Part 1 requirements.
- 
-#### Fixed
-* Broken navigation links in header component.
- 
----
- 
-## 📚 References
-*Cite all academic sources, design inspiration, external code snippets, or frameworks using your institution's required referencing style (e.g., IIE Harvard Anglia).*
- 
-1. Author Surname, Initial. (Year). *Title of program/source code*. URL/Publisher.
-2. Framework/Library Name. (Year). *Documentation Title*. URL.
+
+## 📁 Project File Structure
+
+```text
+Lowveld-Outdoor-Camping/
+│
+├── README.md
+├── index.html
+├── about.html
+├── products.html
+├── enquiry.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+    ├── sunset.jpeg
+    ├── tent.jpeg
+    ├── cookware.jpeg
+    ├── footwear.jpeg
+    └── backpack.jpeg
